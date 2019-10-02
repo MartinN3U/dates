@@ -1,34 +1,261 @@
 {
-   "Schulungen": {
-        "Verkauf":[
-            {
-                "id": "101",
-                "name": "Verkauf",
-                "place": "Dresden",
-                "date":"04.09.2019"
-            },
-            {
-                "id": "102",
-                "name": "Verkauf",
-                "place": "Dresden",
-                "date":"29.01.2020"
-            }
-        ],
+   "Schulungen": [
+   
+		{
+			"name": "Grundlagen, Handling, Stammdaten",
+			"link": "https://www.alltrotec.de/akademie/abas-erp-standardschulung/kursdetails/kurs/grundlagen-handling-stammdaten/",
+			"events": [
+			    {
+					"id": "00101",
+					"place": "Dresden",
+					"date":"28.08.2019"
+				},
+				{
+					"id": "00102",
+					"place": "Dresden",
+					"date":"22.01.2020"
+				}
+			]
+		},
+		
+		{
+			"name": "Verkauf",
+			"link": "https://www.alltrotec.de/akademie/abas-erp-standardschulung/kursdetails/kurs/verkauf/",
+			"events": [
+			    {
+					"id": "00201",
+					"place": "Dresden",
+					"date":"04.09.2019 - 05.09.2019"
+				},
+				{
+					"id": "00202",
+					"place": "Dresden",
+					"date":"29.01.2020 - 30.01.2020"
+				}
+			]
+		},
 
-        "Einkauf":[
-            {
-                "id": "201",
-                "name": "Einkauf",
-                "place": "Dresden",
-                "date":"30.09.2019"
-            },
-            {
-                "id": "202",
-                "name": "Einkauf",
-                "place": "Dresden",
-                "date":"05.02.2020"
-            }
-        ]
-   }
+		{
+			"name": "Einkauf",
+			"link": "https://www.alltrotec.de/akademie/abas-erp-standardschulung/kursdetails/kurs/einkauf/",
+			"events": [
+			    {
+					"id": "00301",
+					"place": "Dresden",
+					"date":"30.09.2019 - 01.10.2019"
+				},
+				{
+					"id": "00302",
+					"place": "Dresden",
+					"date":"05.02.2020 - 06.02.2020"
+				}
+			]
+		},
+		
+		{
+			"name": "Disposition & Fertigungsplanung 1",
+			"link": "",
+			"events": [
+			    {
+					"id": "00401",
+					"place": "Dresden",
+					"date":"10.10.2019"
+				},
+				{
+					"id": "00402",
+					"place": "Dresden",
+					"date":"11.03.2020"
+				}
+			]
+		},
+
+		{
+			"name": "Disposition & Fertigungsplanung 2",
+			"link": "",
+			"events": [
+			    {
+					"id": "00501",
+					"place": "Dresden",
+					"date":"11.10.2019"
+				},
+				{
+					"id": "00502",
+					"place": "Dresden",
+					"date":"12.03.2020"
+				}
+			]
+		},
+
+		{
+			"name": "Lagerwirtschaft",
+			"link": "",
+			"events": [
+			    {
+					"id": "00601",
+					"place": "Dresden",
+					"date":"29.10.2019"
+				},
+				{
+					"id": "00602",
+					"place": "Dresden",
+					"date":"25.03.2020"
+				}
+			]
+		},
+
+		{
+			"name": "Administration",
+			"link": "",
+			"events": [
+			    {
+					"id": "00701",
+					"place": "Dresden",
+					"date":"07.10.2019"
+				},
+				{
+					"id": "00702",
+					"place": "Dresden",
+					"date":"26.02.2020"
+				}
+			]
+		},
+
+		{
+			"name": "Erweiterte Administration",
+			"link": "",
+			"events": [
+			    {
+					"id": "00801",
+					"place": "Dresden",
+					"date":"08.10.2019"
+				},
+				{
+					"id": "00802",
+					"place": "Dresden",
+					"date":"27.02.2020"
+				}
+			]
+		},
+		
+		{
+			"name": "FOP I Grundlagen",
+			"link": "",
+			"events": [
+			    {
+					"id": "00901",
+					"place": "Dresden",
+					"date":"04.11.2019"
+				},
+				{
+					"id": "00902",
+					"place": "Dresden",
+					"date":"18.03.2020"
+				}
+			]
+		},
+
+		{
+			"name": "FOP II Ereignisgesteuerte Programme",
+			"link": "",
+			"events": [
+			    {
+					"id": "01001",
+					"place": "Dresden",
+					"date":"13.11.2019"
+				},
+				{
+					"id": "01002",
+					"place": "Dresden",
+					"date":"19.03.2020"
+				}
+			]
+		},
+
+		{
+			"name": "FOP III Infosysteme",
+			"link": "",
+			"events": [
+			    {
+					"id": "01101",
+					"place": "Dresden",
+					"date":"14.11.2019"
+				},
+				{
+					"id": "01102",
+					"place": "Dresden",
+					"date":"20.03.2020"
+				}
+			]
+		},
+
+		{
+			"name": "Drucken",
+			"link": "",
+			"events": [
+			    {
+					"id": "01201",
+					"place": "Dresden",
+					"date":"18.11.2019 - 19.11.2019"
+				},
+				{
+					"id": "01202",
+					"place": "Dresden",
+					"date":"01.04.2020 - 02.04.2020"
+				}
+			]
+		},
+
+		{
+			"name": "Finanzbuchhaltung Basis",
+			"link": "",
+			"events": [
+			    {
+					"id": "01301",
+					"place": "Dresden",
+					"date":"25.11.2019 - 26.11.2019"
+				},
+				{
+					"id": "01302",
+					"place": "Dresden",
+					"date":"04.05.2020 - 05.05.2020"
+				}
+			]
+		},
+
+		{
+			"name": "Finanzbuchhaltung Aufbau",
+			"link": "",
+			"events": [
+			    {
+					"id": "01401",
+					"place": "Dresden",
+					"date":"27.11.2019"
+				},
+				{
+					"id": "01402",
+					"place": "Dresden",
+					"date":"06.05.2020"
+				}
+			]
+		},
+		
+		{
+			"name": "Anlagenbuchhaltung",
+			"link": "",
+			"events": [
+			    {
+					"id": "01401",
+					"place": "Dresden",
+					"date":"28.11.2019"
+				},
+				{
+					"id": "01402",
+					"place": "Dresden",
+					"date":"07.05.2020"
+				}
+			]
+		}
+
+   ]
  
 }
