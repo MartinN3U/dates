@@ -1,0 +1,29 @@
+{
+    "Verkauf":[
+        {
+            "id": "001",
+            "place": "Dresden",
+            "date":"04.09.2019"
+        },
+        {
+            "id": "002",
+            "place": "Dresden",
+            "date":"29.01.2020"
+        }
+    ],
+    
+    "Einkauf":[
+        {
+            "id": "001",
+            "place": "Dresden",
+            "date":"30.09.2019"
+        },
+        {
+            "id": "002",
+            "place": "Dresden",
+            "date":"05.02.2020"
+        }
+    ]
+
+ 
+}
