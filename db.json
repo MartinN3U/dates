@@ -7,11 +7,13 @@
 			"events": [
 			    {
 					"id": "00101",
+					"name": "Grundlagen, Handling, Stammdaten",
 					"place": "Dresden",
 					"date":"28.08.2019"
 				},
 				{
 					"id": "00102",
+					"name": "Grundlagen, Handling, Stammdaten",
 					"place": "Dresden",
 					"date":"22.01.2020"
 				}
@@ -24,11 +26,13 @@
 			"events": [
 			    {
 					"id": "00201",
+					"name": "Verkauf",
 					"place": "Dresden",
 					"date":"04.09.2019 - 05.09.2019"
 				},
 				{
 					"id": "00202",
+					"name": "Verkauf",
 					"place": "Dresden",
 					"date":"29.01.2020 - 30.01.2020"
 				}
@@ -41,11 +45,13 @@
 			"events": [
 			    {
 					"id": "00301",
+					"name": "Einkauf",
 					"place": "Dresden",
 					"date":"30.09.2019 - 01.10.2019"
 				},
 				{
 					"id": "00302",
+					"name": "Einkauf",
 					"place": "Dresden",
 					"date":"05.02.2020 - 06.02.2020"
 				}
@@ -58,11 +64,13 @@
 			"events": [
 			    {
 					"id": "00401",
+					"name": "Disposition & Fertigungsplanung 1",
 					"place": "Dresden",
 					"date":"10.10.2019"
 				},
 				{
 					"id": "00402",
+					"name": "Disposition & Fertigungsplanung 1",
 					"place": "Dresden",
 					"date":"11.03.2020"
 				}
@@ -75,11 +83,13 @@
 			"events": [
 			    {
 					"id": "00501",
+					"name": "Disposition & Fertigungsplanung 2",
 					"place": "Dresden",
 					"date":"11.10.2019"
 				},
 				{
 					"id": "00502",
+					"name": "Disposition & Fertigungsplanung 2",
 					"place": "Dresden",
 					"date":"12.03.2020"
 				}
@@ -92,11 +102,13 @@
 			"events": [
 			    {
 					"id": "00601",
+					"name": "Lagerwirtschaft",
 					"place": "Dresden",
 					"date":"29.10.2019"
 				},
 				{
 					"id": "00602",
+					"name": "Lagerwirtschaft",
 					"place": "Dresden",
 					"date":"25.03.2020"
 				}
@@ -109,11 +121,13 @@
 			"events": [
 			    {
 					"id": "00701",
+					"name": "Administration",
 					"place": "Dresden",
 					"date":"07.10.2019"
 				},
 				{
 					"id": "00702",
+					"name": "Administration",
 					"place": "Dresden",
 					"date":"26.02.2020"
 				}
@@ -126,11 +140,13 @@
 			"events": [
 			    {
 					"id": "00801",
+					"name": "Erweiterte Administration",
 					"place": "Dresden",
 					"date":"08.10.2019"
 				},
 				{
 					"id": "00802",
+					"name": "Erweiterte Administration",
 					"place": "Dresden",
 					"date":"27.02.2020"
 				}
@@ -143,11 +159,13 @@
 			"events": [
 			    {
 					"id": "00901",
+					"name": "FOP I Grundlagen",
 					"place": "Dresden",
 					"date":"04.11.2019"
 				},
 				{
 					"id": "00902",
+					"name": "FOP I Grundlagen",
 					"place": "Dresden",
 					"date":"18.03.2020"
 				}
@@ -160,11 +178,13 @@
 			"events": [
 			    {
 					"id": "01001",
+					"name": "FOP II Ereignisgesteuerte Programme",
 					"place": "Dresden",
 					"date":"13.11.2019"
 				},
 				{
 					"id": "01002",
+					"name": "FOP II Ereignisgesteuerte Programme",
 					"place": "Dresden",
 					"date":"19.03.2020"
 				}
@@ -177,11 +197,13 @@
 			"events": [
 			    {
 					"id": "01101",
+					"name": "FOP III Infosysteme",
 					"place": "Dresden",
 					"date":"14.11.2019"
 				},
 				{
 					"id": "01102",
+					"name": "FOP III Infosysteme",
 					"place": "Dresden",
 					"date":"20.03.2020"
 				}
@@ -194,11 +216,13 @@
 			"events": [
 			    {
 					"id": "01201",
+					"name": "Drucken",
 					"place": "Dresden",
 					"date":"18.11.2019 - 19.11.2019"
 				},
 				{
 					"id": "01202",
+					"name": "Drucken",
 					"place": "Dresden",
 					"date":"01.04.2020 - 02.04.2020"
 				}
@@ -211,11 +235,13 @@
 			"events": [
 			    {
 					"id": "01301",
+					"name": "Finanzbuchhaltung Basis",
 					"place": "Dresden",
 					"date":"25.11.2019 - 26.11.2019"
 				},
 				{
 					"id": "01302",
+					"name": "Finanzbuchhaltung Basis",
 					"place": "Dresden",
 					"date":"04.05.2020 - 05.05.2020"
 				}
@@ -228,11 +254,13 @@
 			"events": [
 			    {
 					"id": "01401",
+					"name": "Finanzbuchhaltung Aufbau",
 					"place": "Dresden",
 					"date":"27.11.2019"
 				},
 				{
 					"id": "01402",
+					"name": "Finanzbuchhaltung Aufbau",
 					"place": "Dresden",
 					"date":"06.05.2020"
 				}
@@ -245,11 +273,13 @@
 			"events": [
 			    {
 					"id": "01401",
+					"name": "Anlagenbuchhaltung",
 					"place": "Dresden",
 					"date":"28.11.2019"
 				},
 				{
 					"id": "01402",
+					"name": "Anlagenbuchhaltung",
 					"place": "Dresden",
 					"date":"07.05.2020"
 				}
