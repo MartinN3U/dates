@@ -2,13 +2,13 @@
    "Schulungen": {
         "Verkauf":[
             {
-                "id": "001",
+                "id": "101",
                 "name": "Verkauf",
                 "place": "Dresden",
                 "date":"04.09.2019"
             },
             {
-                "id": "002",
+                "id": "102",
                 "name": "Verkauf",
                 "place": "Dresden",
                 "date":"29.01.2020"
@@ -17,13 +17,13 @@
 
         "Einkauf":[
             {
-                "id": "001",
+                "id": "201",
                 "name": "Einkauf",
                 "place": "Dresden",
                 "date":"30.09.2019"
             },
             {
-                "id": "002",
+                "id": "202",
                 "name": "Einkauf",
                 "place": "Dresden",
                 "date":"05.02.2020"
